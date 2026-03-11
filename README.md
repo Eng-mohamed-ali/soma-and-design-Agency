@@ -1,4 +1,6 @@
-# 🚀 **SOMA Design & Marketing - Complete Professional README**
+I can see the issue - you're seeing the raw markdown code instead of the formatted README because the code block is visible. Here's the **clean, professional README** without the code block markers:
+
+---
 
 ```markdown
 <div align="center">
@@ -19,40 +21,42 @@
 
 ---
 
-## 📋 **Table of Contents**
+## 📋 Table of Contents
 
-- [About The Project](#-about-the-project)
-- [✨ Key Features](#-key-features)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [🚀 Getting Started](#-getting-started)
-- [📱 Responsive Design](#-responsive-design)
-- [🎨 Design System](#-design-system)
-- [📄 Pages Overview](#-pages-overview)
-- [🌐 Deployment](#-deployment)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
-- [📞 Contact](#-contact)
-- [🙏 Acknowledgments](#-acknowledgments)
+- [About The Project](#about-the-project)
+- [Key Features](#key-features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Responsive Design](#responsive-design)
+- [Design System](#design-system)
+- [Pages Overview](#pages-overview)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
-## 🎯 **About The Project**
+## 🎯 About The Project
 
 SOMA Design & Marketing is a premium, enterprise-grade digital agency website built for institutions, NGOs, and government organizations across East Africa. The platform showcases professional services, portfolio projects, academy courses, and establishes digital credibility with a modern, luxurious interface.
 
-### **Why SOMA?**
-- ✅ **Institutional Focus** - Tailored for NGOs and government clients
-- ✅ **Af-Somali Support** - First platform with courses in Somali language
-- ✅ **Enterprise Credibility** - Trust indicators and professional design
-- ✅ **Conversion Optimized** - Strategic CTAs and user flow
-- ✅ **Performance First** - Lighthouse scores >90
+### Why SOMA?
+
+✅ **Institutional Focus** - Tailored for NGOs and government clients  
+✅ **Af-Somali Support** - First platform with courses in Somali language  
+✅ **Enterprise Credibility** - Trust indicators and professional design  
+✅ **Conversion Optimized** - Strategic CTAs and user flow  
+✅ **Performance First** - Lighthouse scores >90  
 
 ---
 
-## ✨ **Key Features**
+## ✨ Key Features
 
-### 🎯 **Core Functionality**
+### 🎯 Core Functionality
+
 | Feature | Description |
 |---------|-------------|
 | **Modern React Architecture** | Built with React 18 and Vite for optimal performance |
@@ -60,56 +64,57 @@ SOMA Design & Marketing is a premium, enterprise-grade digital agency website bu
 | **Dark/Light Mode** | Seamless theme switching with localStorage persistence |
 | **Fully Responsive** | Flawless experience across all devices (mobile, tablet, desktop) |
 
-### 🎨 **UI/UX Excellence**
+### 🎨 UI/UX Excellence
+
 - **Framer Motion Animations** - Smooth, professional page transitions and micro-interactions
 - **Tailwind CSS** - Utility-first styling with custom design system
 - **Glassmorphism Effects** - Modern, luxurious interface elements
 - **Bento Grid Layouts** - Contemporary content organization
 - **Custom Components** - Reusable UI library (Card, Button, Badge, etc.)
 
-### 📱 **Key Pages & Sections**
+### 📱 Key Pages & Sections
+
 ```
-┌─────────────────────────────────────┐
-│  HERO SECTION                       │
-│  • Dynamic parallax scrolling       │
-│  • Animated headlines               │
-│  • CTA buttons with hover effects   │
-├─────────────────────────────────────┤
-│  STATS & TRUST BADGES               │
-│  • Live counter animations          │
-│  • Partner organization logos       │
-├─────────────────────────────────────┤
-│  SERVICES GRID                      │
-│  • Interactive service cards        │
-│  • Feature tags with hover states   │
-├─────────────────────────────────────┤
-│  PORTFOLIO GALLERY                  │
-│  • Filterable project showcase      │
-│  • Case study cards with results    │
-├─────────────────────────────────────┤
-│  ACADEMY COURSES                     │
-│  • Course catalog with Af-Somali    │
-│  • Pricing and curriculum preview   │
-├─────────────────────────────────────┤
-│  TEAM PROFILES                      │
-│  • Professional team member cards   │
-│  • Social links and expertise tags  │
-├─────────────────────────────────────┤
-│  TESTIMONIALS CAROUSEL              │
-│  • Auto-rotating success stories    │
-│  • Client quotes with ratings       │
-├─────────────────────────────────────┤
-│  CONTACT FORM                       │
-│  • Formspree email integration      │
-│  • Validation with error handling   │
-├─────────────────────────────────────┤
-│  FLOATING WHATSAPP                  │
-│  • Quick chat interface             │
-│  • Pre-defined message templates    │
-└─────────────────────────────────────┘
+HERO SECTION
+• Dynamic parallax scrolling
+• Animated headlines
+• CTA buttons with hover effects
+
+STATS & TRUST BADGES
+• Live counter animations
+• Partner organization logos
+
+SERVICES GRID
+• Interactive service cards
+• Feature tags with hover states
+
+PORTFOLIO GALLERY
+• Filterable project showcase
+• Case study cards with results
+
+ACADEMY COURSES
+• Course catalog with Af-Somali
+• Pricing and curriculum preview
+
+TEAM PROFILES
+• Professional team member cards
+• Social links and expertise tags
+
+TESTIMONIALS CAROUSEL
+• Auto-rotating success stories
+• Client quotes with ratings
+
+CONTACT FORM
+• Formspree email integration
+• Validation with error handling
+
+FLOATING WHATSAPP
+• Quick chat interface
+• Pre-defined message templates
 ```
 
-### 🔧 **Technical Highlights**
+### 🔧 Technical Highlights
+
 - **Code Splitting** - Lazy loading for optimal performance
 - **Error Boundary** - Graceful error handling with user-friendly fallback
 - **Scroll Restoration** - Smooth scroll behavior on route changes
@@ -118,7 +123,7 @@ SOMA Design & Marketing is a premium, enterprise-grade digital agency website bu
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 | Category | Technologies | Version |
 |----------|-------------|---------|
@@ -133,89 +138,96 @@ SOMA Design & Marketing is a premium, enterprise-grade digital agency website bu
 
 ---
 
-## 📁 **Project Structure**
+## 📁 Project Structure
 
 ```
-📦 som
-├── 📂 public/                      # Static assets
+som/
+├── public/
 │   ├── favicon.ico
 │   └── robots.txt
-├── 📂 src/
-│   ├── 📂 components/              # Reusable UI components
-│   │   ├── 📂 layout/              # Layout components
-│   │   │   ├── Header.jsx          # Navigation with mobile drawer
-│   │   │   ├── Footer.jsx          # Site footer with contact info
-│   │   │   └── PageWrapper.jsx     # Page transition wrapper
-│   │   ├── 📂 sections/            # Page sections
-│   │   │   ├── Hero.jsx            # Hero section with parallax
-│   │   │   ├── ServicesGrid.jsx    # Services showcase
-│   │   │   └── AcademyBento.jsx    # Academy courses section
-│   │   └── 📂 ui/                  # UI primitives
-│   │       ├── Button.jsx          # Reusable button component
-│   │       ├── Card.jsx            # Card container
-│   │       ├── Badge.jsx           # Tag/badge component
-│   │       ├── ThemeToggle.jsx     # Dark/light mode toggle
-│   │       └── FloatingWhatsApp.jsx # WhatsApp chat widget
-│   ├── 📂 data/                     # Constants and configuration
-│   │   └── constants.js             # All site data (nav, services, etc.)
-│   ├── 📂 pages/                     # Route pages
-│   │   ├── Home.jsx                  # Landing page
-│   │   ├── About.jsx                 # Company information
-│   │   ├── Services.jsx              # Services details
-│   │   ├── Portfolio.jsx             # Project showcase
-│   │   ├── Courses.jsx               # Academy catalog
-│   │   ├── Contact.jsx               # Contact form
-│   │   ├── Terms.jsx                 # Terms & conditions
-│   │   ├── Privacy.jsx               # Privacy policy
-│   │   └── NotFound.jsx              # 404 page
-│   ├── 📂 utils/                      # Helper functions
-│   │   └── helpers.js                 # Utility functions
-│   ├── App.jsx                        # Main application component
-│   ├── main.jsx                       # Entry point
-│   └── index.css                      # Global styles
-├── .gitignore                          # Git ignore file
-├── index.html                          # HTML template
-├── package.json                        # Dependencies and scripts
-├── package-lock.json                   # Locked dependencies
-├── README.md                           # This file
-├── vite.config.js                      # Vite configuration
-└── tailwind.config.js                  # Tailwind configuration
+├── src/
+│   ├── components/
+│   │   ├── layout/
+│   │   │   ├── Header.jsx
+│   │   │   ├── Footer.jsx
+│   │   │   └── PageWrapper.jsx
+│   │   ├── sections/
+│   │   │   ├── Hero.jsx
+│   │   │   ├── ServicesGrid.jsx
+│   │   │   └── AcademyBento.jsx
+│   │   └── ui/
+│   │       ├── Button.jsx
+│   │       ├── Card.jsx
+│   │       ├── Badge.jsx
+│   │       ├── ThemeToggle.jsx
+│   │       └── FloatingWhatsApp.jsx
+│   ├── data/
+│   │   └── constants.js
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   ├── Services.jsx
+│   │   ├── Portfolio.jsx
+│   │   ├── Courses.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Terms.jsx
+│   │   ├── Privacy.jsx
+│   │   └── NotFound.jsx
+│   ├── utils/
+│   │   └── helpers.js
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+├── vite.config.js
+└── tailwind.config.js
 ```
 
 ---
 
-## 🚀 **Getting Started**
+## 🚀 Getting Started
 
 ### Prerequisites
+
 - **Node.js** (v18 or higher)
 - **npm** (v9 or higher)
 - **Git** (v2.30 or higher)
 
 ### Installation
 
-#### 1️⃣ **Clone the repository**
+#### 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/mohacoder/som.git
 cd som
 ```
 
-#### 2️⃣ **Install dependencies**
+#### 2️⃣ Install dependencies
+
 ```bash
 npm install
 ```
 
-#### 3️⃣ **Start development server**
+#### 3️⃣ Start development server
+
 ```bash
 npm run dev
 ```
+
 The app will open at `http://localhost:5173`
 
-#### 4️⃣ **Build for production**
+#### 4️⃣ Build for production
+
 ```bash
 npm run build
 ```
 
-#### 5️⃣ **Preview production build**
+#### 5️⃣ Preview production build
+
 ```bash
 npm run preview
 ```
@@ -231,7 +243,7 @@ npm run preview
 
 ---
 
-## 📱 **Responsive Design**
+## 📱 Responsive Design
 
 ### Breakpoints
 
@@ -242,6 +254,7 @@ npm run preview
 | `> 1024px` | Desktop | Full layout, mega menu |
 
 ### Mobile Optimizations
+
 - ✅ Touch-friendly buttons (44x44px minimum)
 - ✅ Hamburger menu with smooth drawer animation
 - ✅ Body scroll lock when menu open
@@ -250,7 +263,7 @@ npm run preview
 
 ---
 
-## 🎨 **Design System**
+## 🎨 Design System
 
 ### Colors
 
@@ -315,7 +328,7 @@ npm run preview
 
 ---
 
-## 📄 **Pages Overview**
+## 📄 Pages Overview
 
 | Route | Component | Description |
 |-------|-----------|-------------|
@@ -331,13 +344,14 @@ npm run preview
 
 ---
 
-## 🌐 **Deployment**
+## 🌐 Deployment
 
 ### Deploy to GitHub Pages
 
-#### Step 1️⃣ **Update Configuration Files**
+#### Step 1️⃣ Update Configuration Files
 
 **`vite.config.js`**
+
 ```js
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
@@ -349,6 +363,7 @@ export default defineConfig({
 ```
 
 **`package.json`** (add these lines)
+
 ```json
 {
   "homepage": "https://mohacoder.github.io/som",
@@ -359,24 +374,27 @@ export default defineConfig({
 }
 ```
 
-#### Step 2️⃣ **Install gh-pages**
+#### Step 2️⃣ Install gh-pages
+
 ```bash
 npm install --save-dev gh-pages
 ```
 
-#### Step 3️⃣ **Deploy**
+#### Step 3️⃣ Deploy
+
 ```bash
 npm run deploy
 ```
 
-#### Step 4️⃣ **Enable GitHub Pages**
+#### Step 4️⃣ Enable GitHub Pages
+
 1. Go to repository **Settings** → **Pages**
 2. Under **Branch**, select `gh-pages`
 3. Click **Save**
 4. Wait 2-3 minutes for deployment
 
-#### Step 5️⃣ **Update Router (if needed)**
-If using React Router, update `App.jsx`:
+#### Step 5️⃣ Update Router (if needed)
+
 ```jsx
 <BrowserRouter basename="/som">
   {/* Your routes */}
@@ -385,7 +403,8 @@ If using React Router, update `App.jsx`:
 
 ### Environment Variables
 
-Create `.env` file for sensitive data:
+Create `.env` file:
+
 ```env
 VITE_FORMSPREE_ENDPOINT=https://formspree.io/f/your-form-id
 VITE_ANALYTICS_ID=your-analytics-id
@@ -393,7 +412,7 @@ VITE_ANALYTICS_ID=your-analytics-id
 
 ---
 
-## 🤝 **Contributing**
+## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -415,6 +434,7 @@ Contributions are what make the open source community such an amazing place to l
 5. **Open a Pull Request**
 
 ### Coding Standards
+
 - ✅ Follow existing code style
 - ✅ Use PropTypes for component props
 - ✅ Write meaningful commit messages
@@ -423,11 +443,11 @@ Contributions are what make the open source community such an amazing place to l
 
 ---
 
-## 📝 **License**
+## 📝 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under the **MIT License**.
 
-```text
+```
 MIT License
 
 Copyright (c) 2024 SOMA Design & Marketing
@@ -453,7 +473,7 @@ SOFTWARE.
 
 ---
 
-## 📞 **Contact**
+## 📞 Contact
 
 ### SOMA Design & Marketing
 
@@ -468,6 +488,7 @@ SOFTWARE.
 | **GitHub** | [@mohacoder](https://github.com/mohacoder) |
 
 ### Social Media
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/soma)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/soma)
@@ -478,9 +499,10 @@ SOFTWARE.
 
 ---
 
-## 🙏 **Acknowledgments**
+## 🙏 Acknowledgments
 
 ### Special Thanks To
+
 - **[React](https://reactjs.org/)** - UI library
 - **[Vite](https://vitejs.dev/)** - Build tool
 - **[Tailwind CSS](https://tailwindcss.com/)** - Styling framework
@@ -490,6 +512,7 @@ SOFTWARE.
 - **[Formspree](https://formspree.io/)** - Form handling
 
 ### Resources
+
 - [React Router Documentation](https://reactrouter.com/)
 - [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
 - [Framer Motion Examples](https://www.framer.com/motion/examples/)
@@ -498,7 +521,7 @@ SOFTWARE.
 
 <div align="center">
   
-  ### ⭐ **If you found this project helpful, please give it a star!** ⭐
+  ### ⭐ If you found this project helpful, please give it a star! ⭐
   
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmohacoder%2Fsom&countColor=%23263759" alt="Visitors">
   
@@ -508,11 +531,13 @@ SOFTWARE.
   
   *© 2024 SOMA Design & Marketing. All rights reserved.*
   
-  [⬆ Back to Top](#-soma-design--marketing---complete-professional-readme)
+  [⬆ Back to Top](#soma-design--marketing-)
   
 </div>
 ```
 
-- ✅ Multiple contact methods
-- ✅ Acknowledgments
-- ✅ Professional formatting throughout
+---
+
+6. **Fixed the back to top link** to work properly
+
+Just copy this entire content and paste it directly into your README.md file - no code blocks needed!
